@@ -1,1 +1,1 @@
-# c
+print("Ultimate Python study guide")
