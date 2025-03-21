@@ -1,4 +1,4 @@
 # C
 ```
-print("Ultimate Python study guide")
+print("~command")
 ```
